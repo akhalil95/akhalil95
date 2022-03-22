@@ -6,7 +6,7 @@ I'm a front-end developer based in Alberta, CA.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, CSS, React
 
 
 ## 🔗 Links
