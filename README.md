@@ -2,11 +2,11 @@
 
 
 ## 🚀 About Me
-I'm a front-end developer based in Alberta, CA.
+I'm a Software Development student based in Alberta, CA.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React
+Python, C#, HTML5, JavaScript, CSS3
 
 
 ## 🔗 Links
