@@ -6,11 +6,11 @@ I'm a Software Development student based in Alberta, CA.
 
 
 ## 🛠 Skills
-Python, C#, HTML5, JavaScript, CSS3
+Python, C#, SQL, HTML5, JavaScript, CSS3
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://ayeshakhalil.ca/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayeshakhalil/)
 
 <!---
