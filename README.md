@@ -6,7 +6,7 @@ I'm a Software Development student based in Alberta, CA.
 
 
 ## 🛠 Skills
-Python, C#, SQL, HTML5, JavaScript, CSS3
+Python, SQL, HTML5, JavaScript, CSS3
 
 
 ## 🔗 Links
