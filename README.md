@@ -22,8 +22,8 @@ I'm a Software Development student based in Alberta, CA.
 
 ## 📈 GitHub Stats
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&exclude_repo=[Your-GitHub-Username].github.io&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[akhalil95]&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[akhalil95]&exclude_repo=[akhalil95].github.io&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhalil95&show_icons=true&locale=en&layout=compact" alt="akhalil95" /></p> -->
